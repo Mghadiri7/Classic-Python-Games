@@ -1,0 +1,5 @@
+RED = (255,0,0)
+BLUE = (0,0,255)
+WHITE = (255,255,255)
+WINDOW_SIZE = (1000,600)
+GAME_NAME = "Dino_Game"
